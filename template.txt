@@ -1,0 +1,7 @@
+%nproc=112
+%chk=filename.chk
+%mem=200GB
+#p Nosymm opt freq B3LYP/6-31G* SCF=(xqc,maxconventionalcycles=100) SCRF=(IEFPCM, solvent=Toluene)
+
+Title Card Required
+
